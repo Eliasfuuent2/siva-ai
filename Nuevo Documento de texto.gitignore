@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Modelos y datos (pesan mucho, no van al repo)
+*.pt
+datasets/
+clips/
+
+# Secretos y config local
+.env
